@@ -9,6 +9,7 @@
 - 📫 How to reach me: [Facebook - @vituracold](https://www.facebook.com/vituracold/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Please never translate this "Đừng lười biếng nữa Duy Thái à"
+
 - ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
@@ -28,4 +29,8 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=duythai2108&theme=buefy&show_icons=true">   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duythai2108&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=duythai2108&label=Profile%20views&color=0e75b6&style=flat" alt="duythai2108" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duythai2108" alt="duythai2108" /></a> </p>
 
