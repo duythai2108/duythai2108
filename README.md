@@ -10,3 +10,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Please never translate this "Đừng lười biếng nữa Duy Thái à"
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=duythai2108&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
