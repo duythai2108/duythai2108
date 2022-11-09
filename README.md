@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media4.giphy.com/media/l3NSaLw58Bx16/giphy.gif?cid=ecf05e47zbz6myskew2a32ayzqv0qv28pybw7vezsg9fg0zm&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Duy Thai, a noob trying hard to become a full-stack developer 👨‍💻 working hard till i can bought for my self a house :) 🚀</div>  
+### <div align="center">I'm Duy Thai, a noob Weboooo~ trying hard to become a full-stack developer 👨‍💻 working hard till i can bought for my self a house :) 🚀</div>  
 # 💫 About Me:
 🔭 I’m currently working as a freelance Frontend Developer<br>👯 I’m looking to improve myself<br>🤝 I’m looking for help with my life...<br>🌱 I’m currently learning to become a full-stack developer<br>💬 Ask me about anything<br>⚡ Fun fact: nope :v
 
