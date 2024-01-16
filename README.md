@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Duy Thai, trying hard to become a full-stack developer 👨‍💻 working hard till i can bought for my self a house :) 🚀</div>  
+### <div align="center">I'm Duy Thai, I'm a full-stack developer 👨‍💻 working hard till i can bought for my self a porchse 911 :) 🚀</div>  
 # 💫 About Me:
 🔭 I’m currently working as a Frontend Developer<br>👯 I’m looking to improve myself<br>🤝 I’m looking for help with my life...<br>🌱 I’m currently learning to become a full-stack developer<br>💬 Ask me about anything<br>⚡ Fun fact: nope :v
 
